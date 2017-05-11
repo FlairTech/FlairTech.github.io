@@ -300,7 +300,7 @@ h2.pagetitle {
 	font-size: 1.75em;
 	margin-left: 0;
 	font-weight: 400;
-	font-family:bariol_regular-webfont_regular-webfont_regular-webfont;
+	font-family: 'bariolregular';
 }
 .navbar .brand a:hover {
 	text-decoration: none;
@@ -391,7 +391,7 @@ header .logo {
 
 #main-flexslider ul.slides li p {
 	font-size: 72px;
-	font-family: bariol_regular-webfont_regular-webfont_regular-webfont;
+	font-family: 'bariolregular';
 	position: relative;
 	margin-bottom: 0px;
 	text-align: center;
