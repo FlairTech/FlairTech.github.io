@@ -134,3 +134,24 @@
 	</div>
 </div>
 </section>
+
+
+
+
+
+<!-- spacer section -->
+<section class="spacer bg3">
+<div class="container">
+	<div class="row">
+		<div class="span12 aligncenter flyLeft">
+			<blockquote class="large">
+				 We aim to create the highest quality product and experience that we can for our customers.
+			</blockquote>
+		</div>
+		<div class="span12 aligncenter flyRight">
+			<i class="icon-rocket icon-10x"></i>
+		</div>
+	</div>
+</div>
+</section>
+<!-- end spacer section -->
